@@ -5,7 +5,7 @@ import (
 	"io"
 	"io/ioutil"
 
-	"github.com/googollee/go-engine.io"
+	"github.com/imtaco-lh/go-engine.io"
 )
 
 type WriterNopCloser struct {
